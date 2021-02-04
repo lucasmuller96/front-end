@@ -1,0 +1,22 @@
+git clone <link do github>
+
+mkdir <nome pasta> (criar diretório)
+
+touch <nome arquivo> (criar arquivo)
+
+--publicar no github--
+
+git status
+
+git add *
+
+git commit -M (comitar e "-m" para criar comentário)
+
+git status para ver status novamente
+
+git push (publicar no github)
+
+
+
+--------
+cod . (abre o visual studio)
