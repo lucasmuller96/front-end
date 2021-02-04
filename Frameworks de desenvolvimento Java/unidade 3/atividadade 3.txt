@@ -1,0 +1,5 @@
+1 - SP possui um carregamento mais rapido
+2 - VR é mais facil o aprendizado com poucas anotações
+3 - VR é brasileiro e sua documentação portanto é em português
+4 - SP é mais antigo então contém mais recursos/módulos
+5 - VR é incompatível com versões mais recentes de containers e do java
